@@ -7,7 +7,6 @@
 # Simulation Outputs
 *.raw
 *.fft
-*.wav
 
 # Netlist
 *.net
